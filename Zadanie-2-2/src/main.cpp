@@ -34,7 +34,7 @@ int main()
     pLedState = ledState;
     for (uint8_t i = 0; i < sizeof(ledState); i++)
     {
-      PORTD = *pLedState;
+      PORTD = *pLedState; 
       pLedState++;
       delay();
     }

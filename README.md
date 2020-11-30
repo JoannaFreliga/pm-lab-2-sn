@@ -14,5 +14,4 @@ Grupa studencka: WEL18DE1S1
 
 # Pytania do zadań z instrukcji
 1. W jaki sposób można określić czas trwania opóżnienia zrealizowanego z użyciem pętli?
-Odp: Poprzez zmiane wartości zmiennej "i".
-2. 
+Odp: Poprzez zmiane wartości zmiennej i.
